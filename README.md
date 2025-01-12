@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Ramzan</h1>
 <h3 align="center">A passionate frontend developer & backend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.softprodigy.com/wp-content/uploads/2021/02/SP-97.gif">
+<img align="center" alt="Coding" width="600" src="https://www.softprodigy.com/wp-content/uploads/2021/02/SP-97.gif">
 <!-- [![MasterHead](https://media.istockphoto.com/id/1340047332/vector/stem-education-of-kids-through-internet-on-laptop-children-study-engineering-professions.jpgs=612x612&w=0&k=20&c=vEdzmZy5dmTfmcV3fqhmDDaB7SkT7m71GQmEjWzbCfA=)](https://rishavchanda.io) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadramzaninformationtechnology&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadramzaninformationtechnology" /> </p>
