@@ -30,5 +30,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadramzaninformationtechnology&show_icons=true&locale=en&layout=compact" alt="muhammadramzaninformationtechnology" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadramzaninformationtechnology&show_icons=true&locale=en" alt="muhammadramzaninformationtechnology" /></p>
+<img src="https://raw.githubusercontent.com/MuhammadRamzaninformationtechnology/MuhammadRamzaninformationtechnology/output/snake.svg" alt="Snake animation" />
+
+###
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadramzaninformationtechnology&" alt="muhammadramzaninformationtechnology" /></p>
